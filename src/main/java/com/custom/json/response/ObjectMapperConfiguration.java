@@ -26,4 +26,5 @@ public class ObjectMapperConfiguration {
 	public JsonFilter getJsonFilter() {
 		return new JsonFilter();
 	}
+	
 }
