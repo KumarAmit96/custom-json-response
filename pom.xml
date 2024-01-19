@@ -12,7 +12,7 @@
 
 	<groupId>io.github.kumaramit96</groupId>
 	<artifactId>custom-json-response</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 
 	<properties>
 		<java.version>17</java.version>
